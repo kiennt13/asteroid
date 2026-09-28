@@ -1,6 +1,9 @@
 This is a project from the DA course learnt on Boot.Dev going through the process of creating the Asteroid game through pygame.
+
 I have log all the commits that I do step-by-step to unsure the logic is easily kept track of.
+
 log
+
 commit f8e992f903399a983e0b605044e535f7413ba94c (HEAD -> main, origin/main)
 Author: kiennt13 <kiennt13.chc@gmail.com>
 Date:   Mon Sep 28 09:10:18 2026 +0000
